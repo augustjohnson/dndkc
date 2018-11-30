@@ -1,0 +1,1 @@
+![World Map](map_of_the_world.png "The World")
