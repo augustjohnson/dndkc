@@ -1,11 +1,13 @@
 collections:
   factions:
     output: true
+    permalink: /:collection/:name
   objects:
     output: true
+    permalink: /:collection/:name
   people:
     output: true
+    permalink: /:collection/:name
   places:
     output: true
-
-theme: jekyll-theme-tactile
+    permalink: /:collection/:name
