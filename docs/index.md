@@ -26,6 +26,9 @@ The inhabitants of this world are what make it interesting.  Notable inhabitants
 * [The Flotterclan Family](people/the_flotterclan_family.md)
 * [Ra'jur](people/rajur.md)
 
+### Factions
+See the [Factions](factions) page for more information.
+
 ### Player Characters
 
 ### Recurring NPCs
