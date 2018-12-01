@@ -1,7 +1,6 @@
 collections:
   - factions
     output: true
-    permalink: /factions/:name
   - objects
     output: true
   - people
