@@ -1,5 +1,9 @@
 collections:
   - factions
+    output: true
   - objects
+    output: true
   - people
+    output: true
   - places
+    output: true
