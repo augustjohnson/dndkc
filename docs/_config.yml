@@ -1,11 +1,11 @@
 collections:
-  - factions
+  factions
     output: true
-  - objects
+  objects
     output: true
-  - people
+  people
     output: true
-  - places
+  places
     output: true
 
 theme: jekyll-theme-tactile
