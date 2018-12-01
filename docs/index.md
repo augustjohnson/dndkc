@@ -10,6 +10,7 @@ There are many places in the world, (and growing all the time).  Some highlights
 * [Ausanda](places/ausanda.md)
 * [The Worm's Woe Headquarters](places/worms_woe_hq.md)
 * [Valence](places/valence.md)
+* [Orlane](places/orlane.md)
 
 ### The Western Continent
 The western continent is fairly well contained and has four mountain ranges and five major rivers.  It is well settled and has few truly wild areas.
@@ -34,4 +35,3 @@ The inhabitants of this world are what make it interesting.  Notable inhabitants
 ### The flow of time
 
 ## Artifacts
-
