@@ -4,4 +4,5 @@ There exist many factions in the world.  Some are straight out of the PHB/DMG (s
 
 Faction Name | Alignment
 --- | ---
-{% for faction in site.factions %} <a href="{{ faction.url }}"> {{ faction.name }} </a> | {{ faction.alignment }} {% endfor %}
+{% for faction in site.factions %} <a href="{{ faction.url }}"> {{ faction.name }} </a> | {{ faction.alignment }} 
+{% endfor %}
