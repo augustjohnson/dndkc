@@ -1,14 +1,8 @@
 base-url: /dndkc
 
-defaults:
-  - scope:
-      path: ''
-    values:
-      layout: ~
 collections:
   factions:
     output: true
-    layout: default
   objects:
     output: true
   people:
