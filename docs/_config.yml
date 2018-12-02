@@ -1,13 +1,9 @@
 collections:
   factions:
     output: true
-    permalink: /dndkc/:collection/:name
   objects:
     output: true
-    permalink: /dndkc/:collection/:name
   people:
     output: true
-    permalink: /dndkc/:collection/:name
   places:
     output: true
-    permalink: /dndkc/:collection/:name
