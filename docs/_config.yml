@@ -4,7 +4,7 @@ defaults:
   - scope:
       path: 'factions'
     values:
-      layout: 'page'
+      layout: 'post'
 
 collections:
   factions:
