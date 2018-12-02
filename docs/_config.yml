@@ -5,7 +5,7 @@ defaults:
       path: 'factions'
       type: "pages"
     values:
-      layout: "pages"
+      layout: "default"
 
 collections:
   factions:
