@@ -3,6 +3,7 @@ base-url: /dndkc
 defaults:
   - scope:
       path: 'dndkc/factions'
+      type: "pages"
     values:
       layout: "pages"
 
