@@ -1,3 +1,5 @@
+base-url: /dndkc
+
 collections:
   factions:
     output: true
