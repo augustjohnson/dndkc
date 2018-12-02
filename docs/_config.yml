@@ -17,3 +17,5 @@ collections:
     output: true
   places:
     output: true
+
+theme: jekyll-theme-minimal
