@@ -2,6 +2,7 @@
 dnd: true
 categories: [faction]
 name: The Eastport Wizards
+title: The Eastport Wizards
 alignment: Neutral Good
 ---
 # The Eastport Wizards

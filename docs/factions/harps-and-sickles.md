@@ -2,6 +2,7 @@
 dnd: true
 categories: [faction]
 name: The Harps and Sickles
+title: The Harps and Sickles
 alignment: Chaotic Good
 ---
 # The Harps and Sickles

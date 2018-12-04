@@ -2,6 +2,7 @@
 dnd: true
 categories: [faction]
 name: The Unbroken Company
+title: The Unbroken Company
 alignment: Neutral Evil
 ---
 
