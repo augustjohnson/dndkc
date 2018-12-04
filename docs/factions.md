@@ -5,12 +5,11 @@ There exist many factions in the world.  Some are straight out of the PHB/DMG (s
 
 Faction Name | Alignment
 --- | ---
-  {% for page in site.pages %}
+{% for page in site.pages %}
     {% if page.dnd == true %}
-      {% for pc in page.categories %}
-        {% if pc == "faction" %}
-          <a href="{{site-baseurl}}{{ page.url }}">{{ page.title }}</a> | {{page.alignment}}
-        {% endif %}   <!-- cat-match-p -->
-      {% endfor %}  <!-- page-category -->
+        {% for pc in page.categories %}
+            {% if pc == "faction" %}<a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a> | {{page.alignment}}
+            {% endif %}   <!-- cat-match-p -->
+        {% endfor %}  <!-- page-category -->
     {% endif %}   <!-- resource-p -->
-  {% endfor %}  <!-- page -->
+{% endfor %}  <!-- page -->
