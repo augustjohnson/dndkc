@@ -14,4 +14,3 @@ Faction Name | Alignment
       {% endfor %}  <!-- page-category -->
     {% endif %}   <!-- resource-p -->
   {% endfor %}  <!-- page -->
-{% endfor %}  <!-- cat -->
