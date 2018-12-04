@@ -1,4 +1,6 @@
 ---
+dnd: true
+categories: [faction]
 name: Worm's Woe
 alignment: Neutral Good
 ---

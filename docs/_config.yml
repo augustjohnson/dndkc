@@ -1,18 +1,3 @@
 baseurl: /dndkc
 
-defaults:
-  - scope:
-      path: 'factions'
-      type: 'pages'
-    values:
-      layout: 'default'
-
-collections:
-  factions:
-    output: true
-  objects:
-    output: true
-  people:
-    output: true
-  places:
-    output: true
+category-list: [faction, object, campaign, person, place]

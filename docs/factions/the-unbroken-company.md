@@ -1,4 +1,6 @@
 ---
+dnd: true
+categories: [faction]
 name: The Unbroken Company
 alignment: Neutral Evil
 ---

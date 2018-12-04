@@ -1,4 +1,6 @@
 ---
+dnd: true
+categories: [faction]
 name: The Iron Fists
 alignment: Lawful Neutral
 ---
