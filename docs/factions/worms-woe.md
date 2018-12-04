@@ -1,7 +1,7 @@
 ---
 dnd: true
 categories: [faction]
-name: Worm's Woe
+name: Worms Woe
 alignment: Neutral Good
 ---
 ![](../images/worms_woe_faction_symbol.png)
