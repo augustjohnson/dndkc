@@ -2,8 +2,8 @@
 dnd: true
 categories: [campaign]
 name: The High Flyers
-players: Chad, Pat, Karl, Matt, Vic
-pcs: Dredge, Breckin, Kriv, Dorbis, Ea
+players: [Chad, Pat, Karl, Matt, Vic]
+pcs: [Dredge, Breckin, Kriv, Dorbis, Ea]
 dm: August
 alignment: Neutral Good
 ---
