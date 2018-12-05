@@ -12,3 +12,11 @@ The Iron Fists are a human faction (although a few half-orcs can be found among 
 ## Roles within the Iron Fists
 * **Reclaimer** - Responsible for protection of Valmest, and the enforcement of it's laws.
 * **High Reclaimer** - Responsible for the direction of the Iron Fists. Usually reclusive, and by tradition speaks almost exclusively with the Reclaimer.
+
+
+## Notable Members
+
+Name | Rank
+--- | ---
+{% for page in site.pages %}{% if page.categories contains "The Iron Fists" and page.dnd == true %}<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> | {{ page.fist_rank }}  
+{% endif %}{% endfor %}
