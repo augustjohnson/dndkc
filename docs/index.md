@@ -8,11 +8,11 @@ Please visit [The World](places/the_world.md)
 
 ## Places
 There are many places in the world, (and growing all the time).  Some highlights include:
-* [Osgan](places/osgan.md)
-* [Ausanda](places/ausanda.md)
-* [The Worm's Woe Headquarters](places/worms_woe_hq.md)
-* [Valence](places/valence.md)
-* [Orlane](places/orlane.md)
+{% for page in site.pages %}
+{% if page.categories contains "place" %}
+* [{{ page.title }}]({{ site.baseurl }}/{{ page.url}})
+{% endif %}
+{% endfor %}
 
 ### The Western Continent
 The western continent is fairly well contained and has four mountain ranges and five major rivers.  It is well settled and has few truly wild areas.
@@ -32,8 +32,14 @@ The inhabitants of this world are what make it interesting.  Notable inhabitants
 See the [Factions](factions) page for more information.
 
 ### Player Characters
+{% for page in site.pages %}
+{% if page.categories contains "pc" %}
+* [{{ page.title }}]({{ site.baseurl }}/{{ page.url}})
+{% endif %}
+{% endfor %}
 
 ### Recurring NPCs
+{% include npc.html %}
 
 ### Crafting
 See the [Crafting](crafting) page for more information

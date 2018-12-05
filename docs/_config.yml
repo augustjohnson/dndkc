@@ -1,3 +1,10 @@
 baseurl: /dndkc
 
 category-list: [faction, object, campaign, person, place, crafting, recipe]
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

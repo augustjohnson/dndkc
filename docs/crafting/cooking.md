@@ -2,10 +2,10 @@
 dnd: true
 categories: [crafting]
 title: Cooking
+layout: default
 ---
 
-Some words
-
+In an attempt to make the cooking skill interesting, below are known recipies.
 
 
 Recipe | Effect |  Prep Time | Duration |
