@@ -11,9 +11,9 @@ alignment: LN
 character_sheet: https://drive.google.com/file/d/0BzLwXEjWt_8dZUlJX2lwV2pJT0k/view?usp=sharing
 image:
 player: "Chad Peterson"
+layout: pc
 ---
 
-# {{ page.title }}
 A current member of The Eastport Wizards Spire, member of The High Flyers, and former Iron Fist.
 
 Dredge isn't your typical eldritch knight.  Essentially born into the Iron Fists, Dredge found his love for magic.  During his time with The High Flyers he found the opportunity to dive deeper into the world of the arcane.

@@ -4,6 +4,7 @@ categories: [faction]
 name: The Eastport Wizards
 title: The Eastport Wizards
 alignment: Neutral Good
+layout: faction
 ---
 # The Eastport Wizards
 The Eastport Wizards are probably the single most influential faction in all of the world.  They have a significant number of powerful magical persons in their employment.  They are often referred to as "The Eastport Wizard's Spire" which technically references their building in Eastport.
