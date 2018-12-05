@@ -6,6 +6,7 @@ title: Traps
 
 ## Bear Trap
 *Simple trap* (level 1 – 4, dangerous threat)
+
 Assembly Time | Environment 
 --- | --- 
 1 minute | Soft ground, or somewhere to solidly fasten the stake.
@@ -28,6 +29,7 @@ This attack can’t gain advantage or disadvantage. A creature hit by the trap h
 
 ## Pit Trap
 *Simple trap* (level 1 – 4, dangerous threat)
+
 Assembly Time | Environment 
 --- | --- 
 4 hours | Soft ground (or an existing pit can be modified).
