@@ -34,6 +34,7 @@ A DC 15 Wisdom(Perception) check reveals the tripwire and the net. A DC 15 Dexte
 Assembly Time | Environment 
 --- | --- 
 1 minute | Anything with anchoring points above and around a path.
+
 **Materials**
 * 30ft of string
 * Iron bell
