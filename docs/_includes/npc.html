@@ -1,0 +1,5 @@
+{% for page in site.pages %}
+{% if page.categories contains "npc" %}
+* [{{ page.title }}]({{ site.baseurl }}/{{ page.url}})
+{% endif %}
+{% endfor %}

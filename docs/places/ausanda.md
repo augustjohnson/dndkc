@@ -1,5 +1,9 @@
-![Ausanda River Crossing](../images/ausanda.jpg "Ausanda River Crossing")
-# Ausanda
+---
+title: Ausandra
+categories: [place]
+layout: place
+image: ../images/ausanda.jpg
+---
 Ausanda is a sprawling city in on the western high desert of the north-eastern continent.  Its subjects swear fealty to [Osgan](osgan.md).  It has no walls and many two and three story wooden buildings, as well as an older part of the city, built along the river with buildings of sandstone.  There’s a small walled portion, a military camp and buildings.  It is overseen by a Lord, whose manor is visible from the city up on the hill above it.  He is not usually interested in cleaning up the city itself, mostly just in taxing it's residents.
 
 ## Climate
