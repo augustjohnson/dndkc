@@ -4,6 +4,49 @@ categories: [crafting]
 title: Traps
 ---
 
+## Bag Drop
+*Simple trap* (level 1-4, dangerous threat)
+
+Assembly Time | Environment 
+--- | --- 
+10 minutes | Anything with anchoring points above and around a path.
+
+**Materials**
+* Item to drop (Caltrops, Ball bearings, Vial of Acid, Rocks)
+* Container (bag, bucket, vial)
+* 30ft of string
+
+With proper care, an item can be rigged with a tripwire to be dropped on an unsuspecting victim.  The effect can be anything from comical to dangerous.
+**Trigger**
+A tripwire strung across a hallway is rigged to bag or container. If the tripwire is broken, the object falls on intruders.
+**Effect**
+The contents of the container fall onto a 5-foot-by-5-foot area centered on the tripwire. Any creature fully within this area must succeed on a DC 15 Dexterity saving throw or be affected by the object.
+* Rocks - 1d6 bludgeoning damage.
+* Caltrops - 1 piercing damage. Movement speed is reduced by 10ft until healed.
+* Ball Bearings - The creature falls prone.
+* Vial of Acid - 2d6 acid damage.
+**Countermeasures**
+A DC 15 Wisdom(Perception) check reveals the tripwire and the net. A DC 15 Dexterity check made with thieves’ tools disables the tripwire without dropping the net or ringing the bell; failing the check causes the trap to activate.
+
+## Tripwire
+*Simple trap* (level 1 – 4, no threat)
+
+Assembly Time | Environment 
+--- | --- 
+1 minute | Anything with anchoring points above and around a path.
+**Materials**
+* 30ft of string
+* Iron bell
+
+Sometimes simple wires that ring bells are enough to help.
+**Trigger**
+A tripwire strung across a walking area is rigged. An iron bell is also rigged to the tripwire. It rings when the trap activates, alerting nearby guards.
+**Effect**
+A creature touching the tripwire causes the bell to ring.
+**Countermeasures**
+A DC 15 Wisdom(Perception) check reveals the tripwire. A DC 15 Dexterity check made with thieves’ tools disables the tripwire without ringing the bell; failing the check causes the trap to activate.
+
+
 ## Bear Trap
 *Simple trap* (level 1 – 4, dangerous threat)
 
@@ -49,8 +92,7 @@ The triggering creature must make a DC 10 Dexterity saving throw. On a successfu
 * A 1ft-wide ledge around the pit is safe to cross.
 
 ## Net Trap
-Net Trap
-Simple trap (level 1-4, dangerous threat)
+*Simple trap* (level 1-4, dangerous threat)
 
 Assembly Time | Environment 
 --- | --- 
