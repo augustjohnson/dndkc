@@ -1,1 +1,0 @@
-![World Map](../images/map_of_the_world.png "The World")
