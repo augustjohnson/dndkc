@@ -42,8 +42,31 @@ After they left the meeting, they were immediately apprehended (along with Jugge
 The party (excluding SevenToes and Jugger) teleported into the city, and was led below, down to the prison.
 
 ### Ea's Story
+Ea was the Spymaster for the Osgani government, and her adopted father, Farrin Keldred, the Master of Swords, was leader of the Osgani military.  He was negotiating something with Delfond Flotterclan, and notified Ea of his leaving, to go to Delfond's cabin to work it out.
 
+A few days later, long before her father was due back from the cabin, her father appeared in the city, but did not approach or talk to her.  The leadership starting making significant changes, and a group of mercenaries, the [Unbroken Company](../factions/the-unbroken-company) started to inhabit the city.  The City Guard was lured down into the barracks, and then locked inside by hobgoblins, which shortly took over.  Ea's father sent her an invitation to meet her in the prison, but she was tricked and locked inside by a female dragonborn.  Shortly after, the High Flyers party joined her in the prison.
 
 ## Chapter 4: Osgan Depths
+The prisoners discovered a way to escape, and made their way down the great ramp, towards a secret door that Ea was able to open.  This door allowed the party into the Crypts, pursued by Hobgoblins and Bulettes.  They were able to escape through the crypts, and they went inside of an old private crypt, which they crawled through, finding a separate way through to get back into the main city.  They saved a gangster named Vitor, and his ladyfriend, who sadly, was slain in the crypts.
+
+After they got back to the Osgan main city, they equipped themselves, but were quickly found by Kava Kimbatuul, Kriv's sister.  She had been granted significant powers by the Unbroken Company and fought the party, but she was defeated in the streets, igniting the Sixdays War.  
 
 ## Chapter 5: The Sixdays War
+The party started guerilla warfare against the occupying force over the next few days.  They completed the following (with the help of Vitor and his gang), and the assistance of Reola Drent, a grandmother-figure to Ea.
+
+Breckin discovered that the Harps and Sickles in Osgan had been neutered, and were unable to assist, but he found many plain folk willing to help the cause, and assisted in riling up the populace.
+
+* Ambushes against standing guards in the streets.
+* Discovery and killing of a doppelganger, posing as a member of high society.
+* Locating and recovering all of the party's gear.
+* Freeing all animals in the zoo into the Unbroken Company's HQ.
+* Liberating the city guard from their prison.
+
+This resulted in a requested meeting with Ra'Jur, a fiend from the Abyssal Plane (who had been hired by Mr. M to destabilize the region).  They went to meet with Ra'Jur and he offered them [The Aethon](../objects/the-aethon), an airship of unmatched quality and potential.  They declined, and Ra'Jur then reiterated his offer, revealing that was preparing to execute Reola, Vitor, SevenToes, and Jugger.  The party was able to free them, and they defeated Ra'Jur, who then offered them assistance were they ever to make it to the abyssal plane.  He also warned them against Mephisto's treachery.
+
+## Epilogue: Threads still left untied.
+The tides turned, and the city rose up for the next 3 days against the occupying force.  They were able to claw back certain sections of the city, and the eventually drove out the last of the Unbroken Company.  Many days of celebration followed, with pauses only for the funerals of great leaders of the city, including Ea's father, whose body was found.  Reola assisted in getting discussions rolling on how the people would be governed, but she denied any official roles.
+
+Breckin was able to convince the reforming Osgani government to form around guilds of workers rather than nobility.  Dorbis assisted in recovery efforts, but was offered a job with Belron back at the sunspire.  Dredge was approached by an individual working for the Eastport Wizards who hoped to recruit him to their efforts, which he was encouraged to do by his superious officer.  Kriv stumbled into an artifact protection and retrieval contract with a mysterious antiquities dealer named Abergast.  Ea is given the option to become the Captain of the Osgan City Guard, or go hunt down the remainer of the Unbroken Company.
+
+The party has yet to get the invitation to Mephisto's party.
