@@ -8,7 +8,7 @@
     {% if page.dnd == true %}
       {% for pc in page.categories %}
         {% if pc == cat %}
-          <li><a href="{{baseurl}}{{ page.url }}">{{ page.title }}</a></li>
+          <li><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></li>
         {% endif %} 
       {% endfor %}
     {% endif %}
