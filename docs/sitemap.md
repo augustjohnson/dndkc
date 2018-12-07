@@ -1,11 +1,6 @@
 ---
 ---
-{% for page in site.pages %}
-* [{{ page.title }}]({{ site.baseurl }}/{{ page.url }})
-{% endfor %}
-
-
-{% for category in site.pages[categories] %}
+{% for category in site.categories %}
 #{{category}}
 {% for page in site.pages %}{% if page.dnd == true and page.categories contains {{ category }} %}* [{{ page.title }}]({{ site.baseur l}}{{ page.url }})
 {% endif %}{% endfor %}
