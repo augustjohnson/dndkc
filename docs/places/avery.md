@@ -1,4 +1,9 @@
-# Avery
+---
+dnd: true
+title: Avery
+categories: [place]
+layout: place
+---
 The town of Avery is a small town with a town square.  Many residents are farmers and a few traders.  It gets a fair amount of traffic on horseback from [Yarrow Landing](yarrow_landing.md) and [Ausanda](ausanda.md).  It is built near the White River.  The town is almost all human.  There are roughly 100 residents nearby.
 
 ## Notable Residents

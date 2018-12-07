@@ -1,4 +1,11 @@
-![](../images/orlane.png)
+
+---
+dnd: true
+title: Orlane
+categories: [place]
+layout: place
+image: ../images/orlane.png
+---
 
 # Orlane
 Orlane is a small “conservative” village, a few days north of Roystwick near the Clifsby Mire.  Orlanians are proud that they have two inns, and a temple of Merrika...though its inactive and fell into ruin as the swamp became more important for the villagers.  Filled primarily with humans, there are the occasional individuals who have moved to Orlane to get away from the city.  Swamp life isn’t for everyone, but for the few who choose it, family’s tend to stay for generations.

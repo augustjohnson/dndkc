@@ -1,3 +1,10 @@
+---
+dnd: true
+title: The Northcrown
+categories: [place]
+layout: place
+---
+
 # The Northcrown
 The Northcrown is the domain of the Iron Fists.  Geographically, it stretches from near the top of the Frebrand Mountains, up to the tip of the continent.  It contains Doraund along with various other villages and towns.  It is mostly human by population.
 

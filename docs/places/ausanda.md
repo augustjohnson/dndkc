@@ -1,5 +1,6 @@
 ---
-title: Ausandra
+dnd: true
+title: Ausanda
 categories: [place]
 layout: place
 image: ../images/ausanda.jpg
