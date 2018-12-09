@@ -4,6 +4,7 @@ categories: [crafting]
 title: Traps
 ---
 
+
 ## Bag Drop
 *Simple trap* (level 1-4, dangerous threat)
 

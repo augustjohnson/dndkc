@@ -1,12 +1,10 @@
 ---
 dnd: true
 categories: [object]
-name: The Aethon
+title: The Aethon
 object-type: transport
 size: colossal
 ---
-
-# The Aethon
 The Aethon is an exquisite airship, a culmination of years of experimentation and experience by a group of dwarven masters at the Osgan Shipworks.  It was initially commissioned by Delfond Flotterclan, as a “retirement present” to his wife.  It is certainly the greatest of the airships created, both enormous, incredibly fast, and it can sting as well, with various kinds of weaponry.
 
 It is built of white floatwood and gold filigree, with a huge pale blue envelope, and two enormous propellers spread out to the side, idling lazily, but ready to leap at the command.  It’s over a hundred feet long, and one-of-a-kind from the point of view of airships.  

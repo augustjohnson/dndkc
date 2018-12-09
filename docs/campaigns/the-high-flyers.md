@@ -1,14 +1,12 @@
 ---
 dnd: true
 categories: [campaign]
-name: The High Flyers
+title: The High Flyers
 players: [Chad, Pat, Karl, Matt, Vic]
 pcs: [Dredge, Breckin, Kriv, Dorbis, Ea]
 dm: August
 alignment: Neutral Good
 ---
-
-# The High Flyers
 This campaign August's first campaign as DM, and started as a one-shot that could potentially progress into a multi-stage campaign.  The first three chapters were played by Chad, Pat, Karl and Matt.  Ea joined in Chapter 4.
 
 ## Chapter 1: Trouble at Mount Crignis

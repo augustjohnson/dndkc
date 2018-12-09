@@ -1,13 +1,10 @@
 ---
 dnd: true
 categories: [faction]
-name: The Iron Fists
 title: The Iron Fists
 alignment: Lawful Neutral
 layout: faction
 ---
-
-# The Iron Fists
 The Iron Fists are a human faction (although a few half-orcs can be found among them), that absolutely hate magic in any form.  They arrest and detain any outward magic user, or kill anyone that uses magic against them.  They are a militant theocracy, with a huge standing army of well trained soldiers.  They are highly mistrustful of races that have inherent magic (elves, gnomes, genasi).  They do not spread their doctrine beyond their borders, and are rarely outwardly hostile.
 
 ## Roles and Ranks within the Iron Fists
