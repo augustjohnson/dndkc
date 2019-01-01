@@ -6,6 +6,7 @@ players: [Chad, Kyle, Vic, Anubis]
 pcs: [Pilwicken, Amron, Lia, Valgim]
 dm: August
 alignment: Chaotic Good
+tags: [Worm's Woe]
 ---
 This episode was a one-shot made to test out the process and setup for Remote D&D.  It generally re-hashed a story that was played in the [../campaigns/the-high-flyers] chapter 2.  From a timeline continuity point of view, this is explained by a combination of two things.  First, [Avery](../places/avery) is cursed with cults for the rest of it's days, and second, the [Time Stone](../objects/the-time-stone) eroded the original memories of the inhabitants of town (and slightly changed some of them), and doomed them to repeat history, with some changes.
 
