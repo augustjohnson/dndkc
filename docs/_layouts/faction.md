@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% assign faction = page.title %}
 
 {{ content }}
 
