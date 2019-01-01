@@ -5,13 +5,10 @@ tags: sitemap
 Please visit [The World](places/the-world) for a world map.
 If you're interested in world history, please visit the [history](history/world-history) page.
 
-## Places
-There are many places in the world, (and growing all the time).  Some highlights include:
-{% for page in site.pages %}
-{% if page.categories contains "place" %}
-* [{{ page.title }}]({{ site.baseurl }}/{{ page.url}})
-{% endif %}
-{% endfor %}
+## [Places](places/the-world)
+There are many places in the world, (and growing all the time).
+
+{% include category-list.html category="place" %}
 
 ### The Western Continent
 The western continent is fairly well contained and has four mountain ranges and five major rivers.  It is well settled and has few truly wild areas.
@@ -28,19 +25,16 @@ The inhabitants of this world are what make it interesting.  Notable inhabitants
 * [The Flotterclan Family](people/the_flotterclan_family.md), a family of Dwarven Nobles.
 * [Ra'jur](people/rajur), a fiend, vanquished by the High Flyers during the Sixdays War.
 
+{% include category-list.html category="people" %}
+
 ### Factions
 See the [Factions](factions) page for more information.
 
 ### Player Characters
-{% for page in site.pages %}
-{% if page.categories contains "pc" %}
-* [{{ page.title }}]({{ site.baseurl }}/{{ page.url}})
-{% endif %}
-{% endfor %}
+{% include category-list.html category="pc" %}
 
 ### Recurring NPCs
-{% include npc.html %}
-
+{% include category-list.html category="npc" %}
 
 ### Crafting
 See the [Crafting](crafting) page for more information
