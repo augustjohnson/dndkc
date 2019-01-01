@@ -12,4 +12,13 @@ layout: default
 <td><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></td>
 </tr>
 {% endif %}{% endfor %}
+{% for tag in page.tags %}
+<tr>
+<td>
+{% for p in site.pages %}
+{% assign title = p.title | downcase %}
+{% if title contains tag %}<a href="{{ site.url }}/{{ p.url }}">{{ p.title }}</a>{% endif %}{% endfor %}
+</td>
+</tr>
+{% endfor %}
 </table>
