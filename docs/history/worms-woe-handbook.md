@@ -19,6 +19,7 @@ This is a list of people who have signed up to be part of this group.
 Name | Role | Player Character | Current Quest
 --- | --- | --- | ---
 August | DM, Player | ? | ?
+Pat | Player | ? | ?
 
 ## Player Characters
 Your player characters are fixed at level 1 to start, as of 2019-01-01, and you may only have one player character.  Eventually this will sync up (for example, everyone will have their PCs be at Level 5 by July 1)
