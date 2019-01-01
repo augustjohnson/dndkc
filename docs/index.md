@@ -38,3 +38,7 @@ See the [Factions](factions) page for more information.
 
 ### Crafting
 See the [Crafting](crafting) page for more information
+
+### Campaigns
+Current and Past Campaigns or One Shot Adventures
+{% include category-list.html category="campaign" %}
