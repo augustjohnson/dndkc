@@ -1,6 +1,7 @@
 ---
 dnd: true
 categories: [technology]
+title: Airships
 name: Airships
 ---
 
@@ -20,7 +21,7 @@ This makes it the ideal material for airships.
 
 ## Notable Airships
 * [The Aethon](../objects/the-aethon)
-* The Juggernaut 
+* The Juggernaut
 * Veltalander I
 * Veltalander II
 * Holdrei Bonifique

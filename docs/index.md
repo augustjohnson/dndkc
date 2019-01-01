@@ -1,4 +1,5 @@
 ---
+tags: sitemap
 ---
 ## The World
 Please visit [The World](places/the-world) for a world map.

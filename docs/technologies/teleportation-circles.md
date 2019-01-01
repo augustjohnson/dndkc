@@ -1,5 +1,5 @@
 ---
 dnd: true
 categories: [technology]
-name: Teleportation Circles
+title: Teleportation Circles
 ---

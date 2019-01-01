@@ -16,7 +16,7 @@ layout: default
 {% for p in site.pages %}
 {% assign title = p.title | downcase %}
 {% if title contains tag %}<tr>
-<td><a href="{{ site.url }}/{{ p.url }}">{{ p.title }}</a></td>
+<td><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></td>
 </tr>{% endif %}{% endfor %}
 {% endfor %}
 </table>

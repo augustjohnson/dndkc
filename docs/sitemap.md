@@ -1,4 +1,5 @@
 ---
+title: sitemap
 ---
 
 {% for cat in site.category-list %}
@@ -9,9 +10,9 @@
       {% for pc in page.categories %}
         {% if pc == cat %}
           <li><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %} 
+        {% endif %}
       {% endfor %}
     {% endif %}
   {% endfor %}
 </ul>
-{% endfor %} 
+{% endfor %}
