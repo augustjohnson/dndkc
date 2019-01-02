@@ -6,7 +6,7 @@ players: [Kyle, August]
 pcs: [Vallis, Gristand Gomnits]
 dm: Chad
 alignment: Chaotic Good
-tags: [Elemental Plane of Fire]
+tags: [Elemental Plane of Fire, The Family, Worm's Woe, The Hydra and The Horse]
 ---
 # The Flame of the Everforge
 This episode is a oneshot focusing on 3 members of [The Family](/factions/the-family). The Family received a contract from "client 7" to steal **The Flame of the Everforge**.  
